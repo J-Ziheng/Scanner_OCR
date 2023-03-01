@@ -4,7 +4,7 @@
 文字识别的功能
 
 #### 开发者：
-&emsp;&emsp;&emsp;靳子恒
+&emsp;&emsp;&emsp;靳子恒 北科信息工程系计算机科学与技术
 
 #### 开发技术：
 &emsp;&emsp;&emsp;语言：python  
